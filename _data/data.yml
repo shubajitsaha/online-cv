@@ -15,7 +15,7 @@ sidebar:
     email: shuvojitcse@gmail.com
     # phone: 012 345 6789
     timezone: Indian Standard Timezone
-    citizenship:
+    citizenship: Indian
     # website: blog.webjeda.com #do not add http://
     linkedin: shubajitsaha
     #xing: alandoe
@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: professional
 
         - idiom: Bengali
           level: Native
@@ -57,24 +57,30 @@ career-profile:
     title: Career Profile
     summary: |
       Software Engineer with expertise in machine
-      learning application and research. I have 5+ years of
-      experience in solving real-life challenging machine
+      learning application and research. I have multi year industry experience of
+      solving real-life challenging machine
       learning problems and launching products that
       positively impacted the lives billions of people.
 education:
     title: Education
     info:
       - degree: Bachelor of Technology in Computer Science
-        university: National Insititute of Technology of Warangal
+        university: National Insititute of Technology of Warangal (NITW)
         time: 2013 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Graduated with Distinction and awarded Institute Merit
+            scholarship for academic excellence throughout 4 years.
+            Course work
+               - Data structures and Algorithm
+               - Machine learning
+               - Distributed computing
+               - Paralell programming
+               - Compiler Design
+               - Network programming
+            Achievements
+            - GPA: 9.52/10.0
+            - Class rank 2/140
+            - Vice President of Computer Science Executive Association NITW, 2016-2017
             
 experiences:
     title: Experiences
@@ -102,54 +108,49 @@ experiences:
           understanding, result ranking and overall relevance projects.
           Shipped multiple improvements of the local query understanding
           classifier with significant recall improvements.
+      - role: Software Engineer Intern, Microsoft Local Search
+        time: May 2016 - July 2016
+        company: Microsoft, Hyderabad
+        details: |
+            Designed and developed an automated system that
+            generates fuzzy and synthetic alteration for local
+            queries by log mining using Big data Mining Framework (Cosmos and Scope)
+            and ML Experimentation framework (Aether).
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        I have worked on multiple projects and Machine learning competions ove the years.  
     assignments:
-      - title: Velocity
+      - title: Multiclass classification of garments from images
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Won MLADS 2019 ML Competion organized by Microsoft STCI. This is the annual ML competition where more than 30 teams participated."
 
-      - title: DevStudio
+      - title: Humor generation using neural sequence models (IJCAI)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Created a humor generation AI system using neural sequence models and presented our findings in IJCAI workshop (Stockholm, 2018)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
