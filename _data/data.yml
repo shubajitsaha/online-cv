@@ -56,11 +56,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software Engineer with expertise in machine
-      learning application and research. I have multi year industry experience of
+      Software Engineer with expertise in machine learning application and research. I have multi-year industry experience of
       solving real-life challenging machine
       learning problems and launching products that
       positively impacted the lives billions of people.
+      
+      I have experience in building large scale, high performance, data driven systems. 
+      I am currently working on ML Systems which improve user trust and information quality in Google Maps. 
+
+      In my previous role as a data scientist at Bing search engine, 
+      I have worked on improving query and document understanding systems and built recommendation systems from scratch. 
+      My area of focus is natural language processing, information retrieval and opinion fraud detection using deep learning techniques.
+      
+      
 education:
     title: Education
     info:
@@ -117,11 +125,11 @@ projects:
     intro: >
         I have worked on multiple projects and participated in many machine learning competions ove the years.  
     assignments:
-      - title: Multiclass classification of garments from images
+      - title: Multiclass classification of Garments from Images
         link: "#hook"
         tagline: "Won MLADS 2019 ML Competion organized by Microsoft STCI. This is the annual ML competition where more than 30 teams participated."
 
-      - title: Humor generation using neural sequence models (IJCAI)
+      - title: Humor Generation Using Neural Sequence Models (IJCAI)
         link: "#"
         tagline: "Created a humor generation AI system using neural sequence models and presented our findings in IJCAI workshop (Stockholm, 2018)"
 
