@@ -70,17 +70,13 @@ education:
         details: |
             Graduated with Distinction and awarded Institute Merit
             scholarship for academic excellence throughout 4 years.
-            Course work
-               - Data structures and Algorithm
-               - Machine learning
-               - Distributed computing
-               - Paralell programming
-               - Compiler Design
-               - Network programming
-            Achievements
             - GPA: 9.52/10.0
             - Class rank 2/140
             - Vice President of Computer Science Executive Association NITW, 2016-2017
+            - Participated in ACM-ICPC Kolkata Regionals, 2016
+            -  Course work: Data structures and Algorithm, Machine learning, Distributed computing
+               Paralell programming, Compiler Design, Network programming
+            
             
 experiences:
     title: Experiences
@@ -119,7 +115,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-        I have worked on multiple projects and Machine learning competions ove the years.  
+        I have worked on multiple projects and participated in many machine learning competions ove the years.  
     assignments:
       - title: Multiclass classification of garments from images
         link: "#hook"
@@ -161,9 +157,20 @@ skills:
 
       - name: C++
         level: 98%
+        
+      - name: SQL
+        level: 98%
 
       - name: Tensorflow
         level: 98%
-
+        
+      - name: Apache Beam
+        level: 98%
+      
+      - name: Pytorch
+        level: 80%
+        
+      - name: C#
+        level: 80%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
