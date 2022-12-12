@@ -96,9 +96,10 @@ experiences:
         company: Google, Bengaluru
         details: |
             I own the ML model that detects fake reviews on Google Maps.
-                - I Lead a team of 2 SWEs on building large scale opinion fraud detection models for Google Reviews.
-                - I have shipped multiple models to production with significant precision and recall improvments.
-                - I regularly conduct ML/coding interviews inorder to grow ML teams at Google.
+            - I Lead a team of 2 SWEs on building large scale opinion fraud detection models for Google Reviews.
+            - I have shipped multiple models to production with significant precision and recall improvments.
+            - I regularly conduct ML/coding interviews inorder to grow ML teams at Google.
+            
       - role: Data Scientist, Microsoft Flight Search
         time: June 2019 - March 2020
         company: Microsoft, Hyderabad
